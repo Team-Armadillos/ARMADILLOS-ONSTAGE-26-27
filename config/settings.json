@@ -1,0 +1,27 @@
+{
+  "monitor": 0,
+  "fullscreen": true,
+  "fps": 30,
+  "camera_index": 0,
+  "audio_device": null,
+  "ble": {
+    "enabled": false,
+    "channel": 4,
+    "company_id": 919
+  },
+  "serial": {
+    "enabled": false,
+    "port": "COM6",
+    "baudrate": 115200
+  },
+  "ai": {
+    "model": null,
+    "confidence": 0.65,
+    "interval_seconds": 0.3
+  },
+  "start_scene": null,
+  "video_fit": "cover",
+  "scale_quality": "fast",
+  "video_audio_enabled": true,
+  "video_volume": 1.0
+}

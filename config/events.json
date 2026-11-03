@@ -1,0 +1,11 @@
+{
+  "events": [
+    "signal",
+    "ai_detection",
+    "wand_detected",
+    "video_finished",
+    "communication_error",
+    "timer",
+    "manual"
+  ]
+}

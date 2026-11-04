@@ -1,0 +1,19 @@
+2026-11-03 14:07:04,575 WARNING FFmpeg audio extraction failed: [out#0/ogg @ 0000021b2b866440] Output file does not contain any stream
+Error opening output file C:\Users\HASSA_FELIPE\Desktop\Extended_Stage\assets\audio\.video_cache\VIDEO_INICIAL_40420a8a1986e34f4eab.part.ogg.
+Error opening output files: Invalid argument
+2026-11-03 14:07:05,818 WARNING FFmpeg audio extraction failed: [out#0/ogg @ 000001cb81db2ac0] Output file does not contain any stream
+Error opening output file C:\Users\HASSA_FELIPE\Desktop\Extended_Stage\assets\audio\.video_cache\fairy_colapso_2e2c9a3be35c8fef4dcc.part.ogg.
+Error opening output files: Invalid argument
+2026-11-03 14:07:06,923 WARNING FFmpeg audio extraction failed: [out#0/ogg @ 000001ee09a72840] Output file does not contain any stream
+Error opening output file C:\Users\HASSA_FELIPE\Desktop\Extended_Stage\assets\audio\.video_cache\fonte_magia_62b6d286bee092aa87b4.part.ogg.
+Error opening output files: Invalid argument
+2026-11-03 15:05:46,729 INFO EVENT terminal_command source=terminal data={'line': 'signal 1'}
+2026-11-03 15:05:46,762 INFO EVENT signal source=terminal data={'value': 1}
+2026-11-03 15:10:38,328 INFO EVENT terminal_command source=terminal data={'line': 'signal 1'}
+2026-11-03 15:10:38,362 INFO EVENT signal source=terminal data={'value': 1}
+2026-11-03 15:35:16,266 INFO EVENT signal source=terminal data={'value': 1}
+2026-11-03 15:39:03,794 INFO EVENT signal source=terminal data={'value': 1}
+2026-11-03 15:44:23,235 INFO EVENT signal source=terminal data={'value': 1}
+2026-11-04 10:07:01,133 INFO EVENT terminal_command source=terminal data={'line': 'signal 1'}
+2026-11-04 10:07:01,168 INFO EVENT signal source=terminal data={'value': 1}
+2026-11-04 10:07:26,624 INFO EVENT signal source=terminal data={'value': 1}
